@@ -1,0 +1,6 @@
+# compiled output
+Test Site/bin
+bin
+Test Site/obj
+/out-tsc
+.vs
